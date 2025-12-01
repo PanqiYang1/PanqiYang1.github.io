@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome to my website!"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -24,9 +24,9 @@ I am passionate about building unified systems that can perceive, reason, and ge
 ======
 *   **UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space**  
     **Panqi Yang\***, Haodong Jing*, Nanning Zheng, Yongqiang Ma  
-    *AAAI Conference on Artificial Intelligence (AAAI), 2026*  
-    [Paper](https://arxiv.org/abs/2511.15046) | [Code](https://github.com/nnnth/UniLIP)  
+    *AAAI Conference on Artificial Intelligence (AAAI), 2026*   
     *Keywords: MLLM, HOI Detection & Generation, Unified Token Space*
+    [Paper](https://arxiv.org/abs/2511.15046) | [Code](Coming soon.)
 
 
 🤝 Collaboration & Contact
