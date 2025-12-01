@@ -26,7 +26,7 @@ I am passionate about building unified systems that can perceive, reason, and ge
 
   <!-- 左边：预览图 -->
   <div style="flex: 0 0 160px;">
-    <img src="/images/unihio_preview.PNG" alt="UniHOI paper preview" style="width: 100%; border-radius: 4px; border: 1px solid #ddd;">
+    <img src="/images/UniHOI_preview.PNG" alt="UniHOI paper preview" style="width: 100%; border-radius: 4px; border: 1px solid #ddd;">
   </div>
 
   <!-- 右边：文字信息 -->
