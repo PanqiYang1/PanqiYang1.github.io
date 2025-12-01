@@ -18,15 +18,27 @@ I am passionate about building unified systems that can perceive, reason, and ge
 
 🔥 News
 ======
-*   **[11/18/2026]** One paper (**UniHOI**) is accepted to **AAAI 2026**! We propose the first unified semi-supervised MLLM for inverse HOI tasks.
+*   **[11/18/2026]** 🎉🎉🎉 Our paper (**UniHOI**) is accepted to **AAAI 2026**! We propose the first unified semi-supervised MLLM for inverse HOI tasks.
 
 📝 Publications
 ======
-*   **UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space**  
-    **Panqi Yang\***, Haodong Jing*, Nanning Zheng, Yongqiang Ma  
-    *AAAI Conference on Artificial Intelligence (AAAI), 2026*   
-    *Keywords: MLLM, HOI Detection & Generation, Unified Token Space*
-    [Paper](https://arxiv.org/abs/2511.15046) | 
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1.5rem;">
+
+  <!-- 左边：预览图 -->
+  <div style="flex: 0 0 160px;">
+    <img src="/images/unihio_preview.PNG" alt="UniHOI paper preview" style="width: 100%; border-radius: 4px; border: 1px solid #ddd;">
+  </div>
+
+  <!-- 右边：文字信息 -->
+  <div style="flex: 1;">
+    <strong>UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space</strong><br>
+    <em>Panqi Yang*, Haodong Jing*, Nanning Zheng, Yongqiang Ma</em><br>
+    <em>AAAI Conference on Artificial Intelligence (AAAI), 2026</em><br>
+    <em>Keywords: MLLM, HOI Detection &amp; Generation, Unified Token Space</em><br>
+    <a href="https://arxiv.org/abs/2511.15046">Paper</a> | <span>Code (Coming soon)</span>
+  </div>
+
+</div>
 
 
 🤝 Collaboration & Contact
