@@ -31,7 +31,7 @@ I am passionate about building unified systems that can perceive, reason, and ge
 
 🤝 Collaboration & Contact
 ======
-I am always open to discussions, academic collaborations, and internship opportunities with scholars and industry researchers. If you are interested in my research or have any questions about my work (e.g., UniHOI), please feel free to contact me!
+I am always open to discussions, academic collaborations, and internship opportunities with scholars and industry researchers. If you are interested in my research or have any questions about my work, please feel free to contact me!
 
 *   **Email:** [yangpq@stu.xjtu.edu.cn](mailto:yangpq@stu.xjtu.edu.cn) 
 *   **Location:** Xi'an, China
