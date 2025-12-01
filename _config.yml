@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WechatIMG192.png"
+  avatar           : "WechatIMG192.PNG"
   name             : "Panqi Yang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming Ph.D. Student at Xi'an Jiaotong University in 2026."
