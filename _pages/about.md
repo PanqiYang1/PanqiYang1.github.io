@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -26,6 +26,7 @@ I am passionate about building unified systems that can perceive, reason, and ge
     **Panqi Yang\***, Haodong Jing*, Nanning Zheng, Yongqiang Ma  
     *AAAI Conference on Artificial Intelligence (AAAI), 2026*   
     *Keywords: MLLM, HOI Detection & Generation, Unified Token Space*
+    
     [Paper](https://arxiv.org/abs/2511.15046) | [Code](Coming soon.)
 
 
