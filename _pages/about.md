@@ -12,7 +12,7 @@ I am currently a Master's student at **Xi'an Jiaotong University (XJTU)**, and I
 
 My research interests lie in **Multimodal Large Language Models (MLLMs)**, with a specific focus on:
 *   **Multimodal Understanding & Generation:** Bridging the gap between visual perception and content creation.
-*   **Embodied AI:** .
+*   **Embodied AI:** WIP
 
 I am passionate about building unified systems that can perceive, reason, and generate in open-world scenarios.
 
