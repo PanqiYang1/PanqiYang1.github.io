@@ -11,26 +11,28 @@ redirect_from:
 > *"The success of machine learning generally depends on data representation."* <br>
 > — **Yoshua Bengio**
 
-I am currently a Master's student at **Xi'an Jiaotong University (XJTU)**, and I am fortunate to continue my research journey as an **incoming Ph.D. student** at XJTU in Fall 2026. Previously, I spent a wonderful time as a Research Intern at the Transaction Algorithm Team, **Xiaohongshu (RED)**.
+I am currently a Master's student at **Xi'an Jiaotong University (XJTU)**, and I am fortunate to continue my research journey as an **incoming Ph.D. student** at XJTU in Fall 2026. Previously, I spent a wonderful time as a Research Intern at the Transaction Algorithm Team, **Xiaohongshu**.
 
 ### 💡 Research Philosophy
 
-My research centers on **Representation Learning**. As a young researcher, I do not blindly believe in the brute-force scaling of parameters. Instead, I am passionate about seeking structured and interpretable computational paradigms inspired by **Cognitive Science**. My long-term trajectory spans three dimensions:
+My research centers on **Representation Learning**. I do not blindly believe in the brute-force scaling of parameters; instead, I am passionate about seeking structured, interpretable, and unified computational paradigms inspired by **Cognitive Science**. My long-term research trajectory spans three interconnected dimensions:
 
-*   🧠 **Cognitive-Inspired Decoding (Upward Exploration):** Observing and decoding human native intelligence through EEG signals (*e.g., DAMind, EVOKE*). By exploring how the human brain achieves conceptual decoupling and cross-domain generalization, I seek biological insights into "what makes a good multimodal alignment."
-*   📐 **Unified Computational Paradigms (Downward Grounding):** Translating cognitive insights into specific algebraic and geometric designs. I aim to resolve manifold misalignment and structural collapse in Representation Space (*e.g., MUSE, UniHOI*), building unified tokenizers and multimodal systems with rigorous mathematical foundations.
-*   🤖 **Physical World Grounding:** Extending unified representations into the 3D physical world (*e.g., UniBVR, InstrucRobo*) to achieve a balance between geometric perception and semantic reasoning in Embodied AI.
+*   🧠 **Cognitive-Inspired Decoding (Upward Exploration):** To build true intelligence, we must first observe native intelligence. I focus on decoding human cognitive mechanisms (e.g., brain-visual signals) to understand how the human mind naturally achieves conceptual decoupling, cross-modal alignment, and zero-shot generalization. This biological perspective provides the ultimate blueprint for answering the fundamental question: *what makes a good multimodal representation?*
+*   📐 **Unified Computational Paradigms (Downward Grounding):** I aim to translate these cognitive blueprints into rigorous algebraic and geometric designs in silicon-based models. By addressing fundamental bottlenecks in the Representation Space—such as manifold misalignment and structural collapse—I strive to unify visual perception, generation, and semantic reasoning. The goal is to build unified token spaces and multimodal frameworks with robust mathematical foundations, rather than relying on fragmented, task-specific engineering.
+*   🤖 **Physical World Deployment (Embodied AI):** As a natural downstream extension of unified representations, I also explore their deployment in the 3D physical world. By grounding cognitive-inspired representations into Embodied AI, I aim to bridge the gap between abstract semantic reasoning and geometric physical interaction, enabling intelligent agents to perceive and act in complex open-world environments.
 
-I firmly believe that the key to AGI lies in the closed-loop feedback between understanding human minds and designing better silicon-based representations.
+I firmly believe that the path to Artificial General Intelligence (AGI) lies in this closed-loop feedback: deeply understanding the human mind to guide algebraic designs, and building better computational representations to validate cognitive theories.
 
 
 🔥 News
 ======
-*   **[2026.01]** 🎉 One paper (**MUSE**) addressing manifold misalignment in Visual Tokenization is accepted to **ICML 2026**!
-*   **[2025.12]** 🎉 Two papers (**UniHOI** and **EVOKE**) are accepted to **AAAI 2026**! 
-*   **[2025.04]** 💼 Joined **Xiaohongshu (RED)** as an Algorithm Research Intern, working on commercial Multimodal LLMs (Biz-MLLM).
-*   **[2025.03]** 🎉 Our paper on 3D scene understanding (**UniBVR**) is accepted to **Neurocomputing 2025**.
-*   **[2025.01]** 🎉 Papers accepted to **IEEE TIP**, **KBS**, and **EAAI**!
+*   **[2026.04]** 🎉🎉 One paper (**MUSE**) addressing manifold misalignment in Visual Tokenization is accepted to **ICML 2026**!
+*   **[2026.03]** 🎉🎉 One paper (**DAMind**) is accepted to **TIP 2026**!
+*   **[2026.02]** 🎉🎉 One paper (**InstrucRobo**)is accepted to **EAAI 2026**!
+*   **[2025.12]** 🎉🎉 Two papers (**UniHOI** and **EVOKE**) are accepted to **AAAI 2026**!
+*   **[2025.08]** 🎉🎉 Our papes (**Pinpointing Visual Content**) is accepted to **KBS 2025**!
+*   **[2025.04]** 💼   Joined **Xiaohongshu** as an Algorithm Research Intern, working on commercial Multimodal LLMs (Biz-MLLM).
+*   **[2025.03]** 🎉🎉 Our paper on 3D scene understanding (**UniBVR**) is accepted to **Neurocomputing 2025**.
 
 
 📝 Selected Publications
