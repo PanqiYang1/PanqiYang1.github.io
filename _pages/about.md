@@ -42,7 +42,7 @@ I firmly believe that the path to Artificial General Intelligence (AGI) lies in 
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1.5rem;">
   <div style="flex: 0 0 180px;">
-    <img src="/images/MUSE_preview.png" alt="MUSE paper preview" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/MUSE.png" alt="MUSE paper preview" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <strong>MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality</strong><br>
@@ -71,7 +71,7 @@ I firmly believe that the path to Artificial General Intelligence (AGI) lies in 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1.5rem;">
   <div style="flex: 0 0 180px;">
     <!-- 记得在 images 文件夹放一张对应的预览图 -->
-    <img src="/images/UniBVR_preview.png" alt="UniBVR preview" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/UniBVR.png" alt="UniBVR preview" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <strong>UniBVR: Balancing Visual and Reasoning Abilities in Unified 3D Scene Understanding</strong><br>
