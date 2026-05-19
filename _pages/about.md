@@ -13,32 +13,36 @@ redirect_from:
 
 I am currently a Master's student at **Xi'an Jiaotong University (XJTU)**, and I am fortunate to continue my research journey as an **incoming Ph.D. student** at XJTU in Fall 2026. Previously, I spent a wonderful time as a Research Intern at the Transaction Algorithm Team, **Xiaohongshu**.
 
-### 💡 Research Philosophy
+💡 Research Philosophy
 
-My research centers on **Representation Learning**. I do not blindly believe in the brute-force scaling of parameters; instead, I am passionate about seeking structured, interpretable, and unified computational paradigms inspired by **Cognitive Science**. My long-term research trajectory spans three interconnected dimensions:
+<p align="center">
+  <strong>Representation Learning · Top‑down ↔ Bottom‑up Closed Loop</strong>
+</p>
 
-*   🧠 **Cognitive-Inspired Decoding (Upward Exploration):** To build true intelligence, we must first observe native intelligence. I focus on decoding human cognitive mechanisms (e.g., brain-visual signals) to understand how the human mind naturally achieves conceptual decoupling, cross-modal alignment, and zero-shot generalization. This biological perspective provides the ultimate blueprint for answering the fundamental question: *what makes a good multimodal representation?*
-*   📐 **Unified Computational Paradigms (Downward Grounding):** I aim to translate these cognitive blueprints into rigorous algebraic and geometric designs in silicon-based models. By addressing fundamental bottlenecks in the Representation Space—such as manifold misalignment and structural collapse—I strive to unify visual perception, generation, and semantic reasoning. The goal is to build unified token spaces and multimodal frameworks with robust mathematical foundations, rather than relying on fragmented, task-specific engineering.
-*   🤖 **Physical World Deployment (Embodied AI):** As a natural downstream extension of unified representations, I also explore their deployment in the 3D physical world. By grounding cognitive-inspired representations into Embodied AI, I aim to bridge the gap between abstract semantic reasoning and geometric physical interaction, enabling intelligent agents to perceive and act in complex open-world environments.
+<br/>
 
-I firmly believe that the path to Artificial General Intelligence (AGI) lies in this closed-loop feedback: deeply understanding the human mind to guide algebraic designs, and building better computational representations to validate cognitive theories.
+| 🧠 **Top‑down** | ↺ | ⚙️ **Bottom‑up** |
+| :--- | :---: | ---: |
+| Cognitive inspiration — how the human brain decouples concepts, aligns modalities, and generalizes. |  | Computational grounding — translating insights into algebraic & geometric designs for unified representations. |
 
+<p align="center">
+  <em>Bidirectional dialogue: biological intelligence guides the math, and computation refines our understanding of cognition.</em>
+</p>
 
 🔥 News
 ======
-*   **[2026.04]** 🎉🎉 One paper (**MUSE**) addressing manifold misalignment in Visual Tokenization is accepted to **ICML 2026**!
-*   **[2026.03]** 🎉🎉 One paper (**DAMind**) is accepted to **TIP 2026**!
-*   **[2026.02]** 🎉🎉 One paper (**InstrucRobo**)is accepted to **EAAI 2026**!
-*   **[2025.12]** 🎉🎉 Two papers (**UniHOI** and **EVOKE**) are accepted to **AAAI 2026**!
-*   **[2025.08]** 🎉🎉 Our papes (**Pinpointing Visual Content**) is accepted to **KBS 2025**!
-*   **[2025.04]** 💼   Joined **Xiaohongshu** as an Algorithm Research Intern, working on commercial Multimodal LLMs (Biz-MLLM).
+*   **[2026.04]** 🎉🎉 One paper **MUSE** addressing manifold misalignment in Visual Tokenization is accepted to **ICML 2026**!
+*   **[2026.03]** 🎉🎉 One paper **DAMind** is accepted to **TIP 2026**!
+*   **[2026.02]** 🎉🎉 One paper **InstrucRobo**is accepted to **EAAI 2026**!
+*   **[2025.12]** 🎉🎉 Two papers **UniHOI** and **EVOKE** are accepted to **AAAI 2026**!
+*   **[2025.08]** 🎉🎉 Our papes **Pinpointing Visual Content** is accepted to **KBS 2025**!
 *   **[2025.03]** 🎉🎉 Our paper on 3D scene understanding (**UniBVR**) is accepted to **Neurocomputing 2025**.
 
 
 📝 Selected Publications
 ======
 
-### I. Unified Representation for Understanding & Generation
+<!-- update 论文+预览图 -->
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1.5rem;">
   <div style="flex: 0 0 180px;">
@@ -66,11 +70,9 @@ I firmly believe that the path to Artificial General Intelligence (AGI) lies in 
   </div>
 </div>
 
-### II. Representation in 3D Scenes & Embodied Manipulation
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1.5rem;">
   <div style="flex: 0 0 180px;">
-    <!-- 记得在 images 文件夹放一张对应的预览图 -->
     <img src="/images/UniBVR.png" alt="UniBVR preview" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
@@ -82,28 +84,11 @@ I firmly believe that the path to Artificial General Intelligence (AGI) lies in 
   </div>
 </div>
 
-### III. Brain-Cognitive Inspired Representation
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1.5rem;">
-  <div style="flex: 0 0 180px;">
-    <img src="/images/DAMind_preview.png" alt="DAMind preview" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1;">
-    <strong>DAMind: Zero-shot Visual Cross-Domain Alignment and Representation for EEG Decoding</strong><br>
-    <em>Haodong Jing, Yongqiang Ma, <strong>Panqi Yang</strong>, et al.</em><br>
-    <em>IEEE Transactions on Image Processing (<strong>TIP</strong>)</em><br>
-    <span style="color: #555; font-size: 0.9em;">Addressing the heterogeneity of brain signals by integrating Visual Language Models (VLMs) with brain cognitive mechanisms for robust zero-shot cross-domain decoding.</span><br>
-    <a href="https://arxiv.org/abs/xxxx" style="font-weight: bold;">[Paper]</a>
-  </div>
-</div>
-
-*(For a full list of publications, please refer to my [Google Scholar](https://scholar.google.com/)).*
+*(For a full list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=2jocSAUAAAAJ&hl=zh-CN)).*
 
 💼 Experience
 ======
 *   **Xiaohongshu (RED)** | *Algorithm Research Intern* <span style="float: right;">Apr. 2025 - Apr. 2026</span>
-    *   Core member of the **Biz-MLLM** team in the Transaction Algorithm Group. 
-    *   Designed high-confidence data pipelines and conducted SFT based on Qwen2.5-VL, achieving feature disentanglement and alleviating long-tail distribution issues in e-commerce scenarios.
 
 🤝 Collaboration & Contact
 ======
